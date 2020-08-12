@@ -2,7 +2,7 @@
 
 ### About Distance Donut
 
-Distance Donut is app that allows you see a fun AR donut around you! Use the donut to measure distance and stay safe. 
+Distance Donut is app that allows you see a fun AR donut around you! Use the donut to measure distance.
 
 The app uses augmented reality to draw a donut around you, wherever you go. You can easily resize it, just don't try to eat it!
 
